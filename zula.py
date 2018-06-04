@@ -138,7 +138,7 @@ class Instabrute():
 
 
 
-zula-attack = zula-attack(Input('Please enter a username: '))
+zulaattack = zulaattack(Input('Please enter a username: '))
 
 try:
 	delayLoop = int(Input('[*] Please add delay between the bruteforce action (in seconds): ')) 
